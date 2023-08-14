@@ -1,0 +1,31 @@
+h1{
+    text-align: center;
+    color:white
+
+}
+.crear{
+    background: blue;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    height: 30px;
+   font-size: medium;;
+   border-color: blue;
+   
+}
+a{
+    text-decoration: none;
+    color: rgb(8, 233, 30);
+}
+.cabecera{
+    background: rgb(46, 46, 136);
+}
+.actualizar{
+    background: blue;
+    border-radius: 5px;
+  border-color: blue;
+}
+.eliminar{
+    background: red;
+    border-radius: 5px;
+    border-color: red;
+}
